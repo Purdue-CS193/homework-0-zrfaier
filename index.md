@@ -2,9 +2,9 @@
 
 ## List of what I like about CS193:
 ```markdown
-- Great teachers
-- Nice Classmates
-- Awesome work load
+- Great teachers!
+- Nice Classmates!
+- Awesome work load!
 ```
 
 
